@@ -16,4 +16,5 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/charlieaver
 
 | Project | Language | Description |
 | --- | --- | --- |
+|[A Visual History of Nobel Prize Winners](https://github.com/charliewhu/DataCampProjects/blob/master/Python/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb)| Python | [Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?] |
 |[ `placeholder` ](https://github.com/charliewhu/DataCampProjects/tree/master/R)| R | [Analyze the network of characters in Game of Thrones and how it changes over the course of the books.](https://www.datacamp.com/projects/76) |
