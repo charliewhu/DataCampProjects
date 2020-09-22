@@ -16,4 +16,4 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/charlieaver
 
 | Project | Description |
 | --- | --- |
-|[ `placeholder` ](https://github.com/charliewhu/DatCampProjects/R)| [Analyze the network of characters in Game of Thrones and how it changes over the course of the books.](https://www.datacamp.com/projects/76) |
+|[ `placeholder` ](https://github.com/charliewhu/DataCampProjects/R)| [Analyze the network of characters in Game of Thrones and how it changes over the course of the books.](https://www.datacamp.com/projects/76) |
