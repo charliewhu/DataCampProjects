@@ -16,6 +16,7 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/charlieaver
 
 | Project | Language | Description |
 | --- | --- | --- |
+|[Visualizing COVID-19](https://github.com/charliewhu/DataCampProjects/tree/master/R/Visualizing%20COVID-19)|R|[Visualize the rise of COVID-19 cases globally with ggplot2.](https://learn.datacamp.com/projects/870)|
 |[Scout your Athletics Fantasy Team](https://github.com/charliewhu/DataCampProjects/tree/master/R/Scout%20your%20Athletics%20Fantasy%20Team)|R|[Analyze athletics data to find new ways to scout and assess jumpers and throwers.](https://learn.datacamp.com/projects/177)|
 |[Analyze International Debt Statistics](https://github.com/charliewhu/DataCampProjects/tree/master/SQL/Analyze%20International%20Debt%20Statistics)|SQL|[Write SQL queries to answer interesting questions about international debt using data from The World Bank.](https://learn.datacamp.com/projects/754)|
 |[A Visual History of Nobel Prize Winners](https://github.com/charliewhu/DataCampProjects/tree/master/Python/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)| Python | [Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?](https://learn.datacamp.com/projects/441) |
