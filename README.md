@@ -16,6 +16,8 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/charlieaver
 
 | Project | Language | Description |
 | --- | --- | --- |
+|[Clustering Heart Disease Patient Data
+](https://github.com/charliewhu/DataCampProjects/tree/master/R/Clustering%20Heart%20Disease%20Patient%20Data)|R|[Experiment with clustering algorithms to help doctors inform treatment for heart disease patients.](https://learn.datacamp.com/projects/552)|
 |[Visualizing COVID-19](https://github.com/charliewhu/DataCampProjects/tree/master/R/Visualizing%20COVID-19)|R|[Visualize the rise of COVID-19 cases globally with ggplot2.](https://learn.datacamp.com/projects/870)|
 |[Scout your Athletics Fantasy Team](https://github.com/charliewhu/DataCampProjects/tree/master/R/Scout%20your%20Athletics%20Fantasy%20Team)|R|[Analyze athletics data to find new ways to scout and assess jumpers and throwers.](https://learn.datacamp.com/projects/177)|
 |[Analyze International Debt Statistics](https://github.com/charliewhu/DataCampProjects/tree/master/SQL/Analyze%20International%20Debt%20Statistics)|SQL|[Write SQL queries to answer interesting questions about international debt using data from The World Bank.](https://learn.datacamp.com/projects/754)|
